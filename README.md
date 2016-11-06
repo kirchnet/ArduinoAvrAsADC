@@ -16,5 +16,6 @@ Turn your Arduino into an Analog to Digital Converter (ADC) that you can poll vi
 !!                                                            !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</pre>
+![alt tag] (https://github.com/kirchnet/ArduinoAvrAsADC/blob/master/SPI%20Arduino%20Raspi%20Connection_bb.jpg)
 
 While the 10-bit resolution is competitive with dedicated SPI ADCs the speed is not. If you need a fast ADC a dedicated chip is better. But if you need a quick solution and have an Arduino and level shifter sitting on your bench this can help.
