@@ -1,4 +1,4 @@
-# Arduino or AVR As ADC
+# Arduino or AVR As ADC, polled through SPI
 Arduino or AVR as Analog Digital Converter via SPI
 
 Turn your Arduino into an Analog to Digital Converter (ADC) that you can poll via SPI in slave mode. Example code for a Raspberry Pi as master is included.
